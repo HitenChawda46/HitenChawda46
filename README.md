@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hiten Chawda and I'm a Software Engineer, from Mumbai.</p>
+<p align="left">My name is Hiten Chawda and I'm a Software Developement Engineer 2, from Mumbai.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React and Angular<br>🎯 Goals: To write a better code which is easy to understand<br>🎲 Fun fact: Aside from being tech nerd ;p I play games too. Valorant and CSGO</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working on React, Next.js and mastering backend in Java(Spring), Express<br>🎯 Goals: To write a better code which is modular, reusable and easy to comprehend<br>🎲 Fun fact: Aside from being tech nerd ;p I play games too. Valorant and CSGO</p>
 
 ###
 
